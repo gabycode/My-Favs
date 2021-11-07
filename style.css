@@ -13,3 +13,21 @@ table {
   td {
    padding: 0 10px;
   }
+
+  .favorite {
+    color: #ED254E
+  } 
+  
+  .not-so-favorite {
+    color: #05B2DC;
+  }
+  
+  .header-favorite {
+    background-color: #FAA613;
+    color: #550527;
+  }
+  
+  .header-not-so-favorite {
+    background-color: #CADBC0;
+    color: #103900;
+  }
